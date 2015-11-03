@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello world!
 
 This is Philippines
+=======
+Welcome to Manila
+>>>>>>> origin/master
