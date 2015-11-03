@@ -2,3 +2,4 @@ Hello World!
 Hello Manila!
 
 Hello Philippines!
+This is a test
