@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-Hello world!
+This is Manila
 
-This is Philippines
-=======
-Welcome to Manila
->>>>>>> origin/master
